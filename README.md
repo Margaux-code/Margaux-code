@@ -1,6 +1,6 @@
 <h2> Hi there ! I’m Margaux 👋 <h5>
  
- <h4> <i>French engineer in the making </p></h4> </i>
+ <h4> <i>French engineer</p></h4> </i>
  <body>
  I'm a machine learning engineer currently working at Jedha 🌱</p>
 I code because I love the infinite possibilities of creations it offers 💞️ </p>
